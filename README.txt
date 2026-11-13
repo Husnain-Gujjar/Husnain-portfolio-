@@ -1,23 +1,21 @@
-HUSNAIN GUJJAR — PROFESSIONAL PORTFOLIO
+HUSNAIN GUJJAR — MULTI-PAGE PORTFOLIO
 
-Files:
-- index.html: page content, SEO metadata and structured data
-- style.css: responsive black/purple visual design
-- script.js: mobile navigation, reveal effects and contact links
-- assets/: favicon and social preview artwork
+Upload ALL files and the assets folder to the ROOT of your existing GitHub Pages repository.
+Keep all HTML pages beside index.html and keep assets/favicon.svg inside assets/.
 
-BEFORE SHARING:
-1. Open script.js and replace the email, WhatsApp number, GitHub, Instagram and LinkedIn placeholders.
-2. Add a real profile photo only if desired; current design uses an abstract monogram and does not need a photo.
-3. Confirm project descriptions and add links/demo URLs only for projects that are actually public.
-4. For GitHub Pages, upload index.html, style.css, script.js and the assets folder to the repository root.
+Pages:
+- index.html
+- husnains-bot.html
+- gujjars-devil.html
+- devils-bot.html
+- vip-master-bot.html
 
-SEO:
-- Descriptive title and meta description
-- Relevant keywords, Open Graph and Twitter preview metadata
-- Person JSON-LD structured data
-- Semantic headings, mobile responsive layout and crawlable text
-- Add a canonical URL and sitemap after the final public URL is confirmed.
+Some commands are representative showcase examples where the original project source was not available. They are labeled in each page. Devil's Bot owner/sudo commands and selected Husnain's Bot commands reflect saved project details.
 
-Accuracy note:
-This portfolio lists four named bot projects. It does not claim that every project is currently deployed or commercially released. Skill indicators are visual only, not certifications or measured scores.
+Public links:
+Email: mrzahusnain@gmail.com
+GitHub: https://github.com/Husnain-Gujjar
+Instagram: https://www.instagram.com/lestyouknow/
+TikTok: https://www.tiktok.com/@husnaingujjar7676
+
+Sami Bot is not included.
